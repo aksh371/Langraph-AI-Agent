@@ -16,4 +16,7 @@ This project implements a **multi-actor LLM** using **Langraph** for efficient s
 ✅ **Optimized query processing** for fast response times  
 
 
+![Langraph AI Agent](Langraph_image.PNG)
+
+
 
